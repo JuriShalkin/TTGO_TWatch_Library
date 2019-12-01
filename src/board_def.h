@@ -72,6 +72,13 @@
 #define TWATCH_TQUICK_MB1        13
 #define TWATCH_TQUICK_MB2        15
 
+//! LoRa_sx1276 BOARD
+#define TWATCH_LORA_SCK     14
+#define TWATCH_LORA_MISO    2
+#define TWATCH_LORA_MOSI    15
+#define TWATCH_LORA_SS      13
+#define TWATCH_LORA_DI0     26
+#define TWATCH_LORA_RST     25
 
 
 
